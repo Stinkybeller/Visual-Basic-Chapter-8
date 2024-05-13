@@ -1,0 +1,28 @@
+E:\Visual Basic\Chapter 8\Patient Cholesterol Screening\Patient Cholesterol Screening\bin\Debug\Patient Cholesterol Screening.exe.config
+E:\Visual Basic\Chapter 8\Patient Cholesterol Screening\Patient Cholesterol Screening\bin\Debug\Patient Cholesterol Screening.exe
+E:\Visual Basic\Chapter 8\Patient Cholesterol Screening\Patient Cholesterol Screening\bin\Debug\Patient Cholesterol Screening.pdb
+E:\Visual Basic\Chapter 8\Patient Cholesterol Screening\Patient Cholesterol Screening\bin\Debug\Patient Cholesterol Screening.xml
+E:\Visual Basic\Chapter 8\Patient Cholesterol Screening\Patient Cholesterol Screening\obj\Debug\Patient Cholesterol Screening.vbprojAssemblyReference.cache
+E:\Visual Basic\Chapter 8\Patient Cholesterol Screening\Patient Cholesterol Screening\obj\Debug\Patient_Cholesterol_Screening.frmDisplayPatientInfo.resources
+E:\Visual Basic\Chapter 8\Patient Cholesterol Screening\Patient Cholesterol Screening\obj\Debug\Patient_Cholesterol_Screening.frmPatientCholesterolScreening.resources
+E:\Visual Basic\Chapter 8\Patient Cholesterol Screening\Patient Cholesterol Screening\obj\Debug\Patient_Cholesterol_Screening.Resources.resources
+E:\Visual Basic\Chapter 8\Patient Cholesterol Screening\Patient Cholesterol Screening\obj\Debug\Patient_Cholesterol_Screening.Splash.resources
+E:\Visual Basic\Chapter 8\Patient Cholesterol Screening\Patient Cholesterol Screening\obj\Debug\Patient Cholesterol Screening.vbproj.GenerateResource.cache
+E:\Visual Basic\Chapter 8\Patient Cholesterol Screening\Patient Cholesterol Screening\obj\Debug\Patient Cholesterol Screening.vbproj.CoreCompileInputs.cache
+E:\Visual Basic\Chapter 8\Patient Cholesterol Screening\Patient Cholesterol Screening\obj\Debug\Patient Cholesterol Screening.exe
+E:\Visual Basic\Chapter 8\Patient Cholesterol Screening\Patient Cholesterol Screening\obj\Debug\Patient Cholesterol Screening.xml
+E:\Visual Basic\Chapter 8\Patient Cholesterol Screening\Patient Cholesterol Screening\obj\Debug\Patient Cholesterol Screening.pdb
+D:\VisualBasic\Chapter 8\Patient Cholesterol Screening\Patient Cholesterol Screening\bin\Debug\Patient Cholesterol Screening.exe.config
+D:\VisualBasic\Chapter 8\Patient Cholesterol Screening\Patient Cholesterol Screening\bin\Debug\Patient Cholesterol Screening.exe
+D:\VisualBasic\Chapter 8\Patient Cholesterol Screening\Patient Cholesterol Screening\bin\Debug\Patient Cholesterol Screening.pdb
+D:\VisualBasic\Chapter 8\Patient Cholesterol Screening\Patient Cholesterol Screening\bin\Debug\Patient Cholesterol Screening.xml
+D:\VisualBasic\Chapter 8\Patient Cholesterol Screening\Patient Cholesterol Screening\obj\Debug\Patient Cholesterol Screening.vbprojAssemblyReference.cache
+D:\VisualBasic\Chapter 8\Patient Cholesterol Screening\Patient Cholesterol Screening\obj\Debug\Patient_Cholesterol_Screening.frmDisplayPatientInfo.resources
+D:\VisualBasic\Chapter 8\Patient Cholesterol Screening\Patient Cholesterol Screening\obj\Debug\Patient_Cholesterol_Screening.frmPatientCholesterolScreening.resources
+D:\VisualBasic\Chapter 8\Patient Cholesterol Screening\Patient Cholesterol Screening\obj\Debug\Patient_Cholesterol_Screening.Resources.resources
+D:\VisualBasic\Chapter 8\Patient Cholesterol Screening\Patient Cholesterol Screening\obj\Debug\Patient_Cholesterol_Screening.Splash.resources
+D:\VisualBasic\Chapter 8\Patient Cholesterol Screening\Patient Cholesterol Screening\obj\Debug\Patient Cholesterol Screening.vbproj.GenerateResource.cache
+D:\VisualBasic\Chapter 8\Patient Cholesterol Screening\Patient Cholesterol Screening\obj\Debug\Patient Cholesterol Screening.vbproj.CoreCompileInputs.cache
+D:\VisualBasic\Chapter 8\Patient Cholesterol Screening\Patient Cholesterol Screening\obj\Debug\Patient Cholesterol Screening.exe
+D:\VisualBasic\Chapter 8\Patient Cholesterol Screening\Patient Cholesterol Screening\obj\Debug\Patient Cholesterol Screening.xml
+D:\VisualBasic\Chapter 8\Patient Cholesterol Screening\Patient Cholesterol Screening\obj\Debug\Patient Cholesterol Screening.pdb
