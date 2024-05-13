@@ -1,0 +1,12 @@
+E:\VisualBasic\Chapter 8\Smart Home Monthly Electric Savings\Smart Home Monthly Electric Savings\bin\Debug\Smart Home Monthly Electric Savings.exe.config
+E:\VisualBasic\Chapter 8\Smart Home Monthly Electric Savings\Smart Home Monthly Electric Savings\bin\Debug\Smart Home Monthly Electric Savings.exe
+E:\VisualBasic\Chapter 8\Smart Home Monthly Electric Savings\Smart Home Monthly Electric Savings\bin\Debug\Smart Home Monthly Electric Savings.pdb
+E:\VisualBasic\Chapter 8\Smart Home Monthly Electric Savings\Smart Home Monthly Electric Savings\bin\Debug\Smart Home Monthly Electric Savings.xml
+E:\VisualBasic\Chapter 8\Smart Home Monthly Electric Savings\Smart Home Monthly Electric Savings\obj\Debug\Smart Home Monthly Electric Savings.vbprojAssemblyReference.cache
+E:\VisualBasic\Chapter 8\Smart Home Monthly Electric Savings\Smart Home Monthly Electric Savings\obj\Debug\Smart_Home_Monthly_Electric_Savings.frmSmartHomeApplications.resources
+E:\VisualBasic\Chapter 8\Smart Home Monthly Electric Savings\Smart Home Monthly Electric Savings\obj\Debug\Smart_Home_Monthly_Electric_Savings.Resources.resources
+E:\VisualBasic\Chapter 8\Smart Home Monthly Electric Savings\Smart Home Monthly Electric Savings\obj\Debug\Smart Home Monthly Electric Savings.vbproj.GenerateResource.cache
+E:\VisualBasic\Chapter 8\Smart Home Monthly Electric Savings\Smart Home Monthly Electric Savings\obj\Debug\Smart Home Monthly Electric Savings.vbproj.CoreCompileInputs.cache
+E:\VisualBasic\Chapter 8\Smart Home Monthly Electric Savings\Smart Home Monthly Electric Savings\obj\Debug\Smart Home Monthly Electric Savings.exe
+E:\VisualBasic\Chapter 8\Smart Home Monthly Electric Savings\Smart Home Monthly Electric Savings\obj\Debug\Smart Home Monthly Electric Savings.xml
+E:\VisualBasic\Chapter 8\Smart Home Monthly Electric Savings\Smart Home Monthly Electric Savings\obj\Debug\Smart Home Monthly Electric Savings.pdb
