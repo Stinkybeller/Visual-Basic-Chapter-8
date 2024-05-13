@@ -1,0 +1,13 @@
+E:\VisualBasic\Chapter 8\Chef Shack Burger Food Truck\Chef Shack Burger Food Truck\bin\Debug\Chef Shack Burger Food Truck.exe.config
+E:\VisualBasic\Chapter 8\Chef Shack Burger Food Truck\Chef Shack Burger Food Truck\bin\Debug\Chef Shack Burger Food Truck.exe
+E:\VisualBasic\Chapter 8\Chef Shack Burger Food Truck\Chef Shack Burger Food Truck\bin\Debug\Chef Shack Burger Food Truck.pdb
+E:\VisualBasic\Chapter 8\Chef Shack Burger Food Truck\Chef Shack Burger Food Truck\bin\Debug\Chef Shack Burger Food Truck.xml
+E:\VisualBasic\Chapter 8\Chef Shack Burger Food Truck\Chef Shack Burger Food Truck\obj\Debug\Chef Shack Burger Food Truck.vbprojAssemblyReference.cache
+E:\VisualBasic\Chapter 8\Chef Shack Burger Food Truck\Chef Shack Burger Food Truck\obj\Debug\Chef_Shack_Burger_Food_Truck.frmFoodTruck.resources
+E:\VisualBasic\Chapter 8\Chef Shack Burger Food Truck\Chef Shack Burger Food Truck\obj\Debug\Chef_Shack_Burger_Food_Truck.frmDisplayInventory.resources
+E:\VisualBasic\Chapter 8\Chef Shack Burger Food Truck\Chef Shack Burger Food Truck\obj\Debug\Chef_Shack_Burger_Food_Truck.Resources.resources
+E:\VisualBasic\Chapter 8\Chef Shack Burger Food Truck\Chef Shack Burger Food Truck\obj\Debug\Chef Shack Burger Food Truck.vbproj.GenerateResource.cache
+E:\VisualBasic\Chapter 8\Chef Shack Burger Food Truck\Chef Shack Burger Food Truck\obj\Debug\Chef Shack Burger Food Truck.vbproj.CoreCompileInputs.cache
+E:\VisualBasic\Chapter 8\Chef Shack Burger Food Truck\Chef Shack Burger Food Truck\obj\Debug\Chef Shack Burger Food Truck.exe
+E:\VisualBasic\Chapter 8\Chef Shack Burger Food Truck\Chef Shack Burger Food Truck\obj\Debug\Chef Shack Burger Food Truck.xml
+E:\VisualBasic\Chapter 8\Chef Shack Burger Food Truck\Chef Shack Burger Food Truck\obj\Debug\Chef Shack Burger Food Truck.pdb

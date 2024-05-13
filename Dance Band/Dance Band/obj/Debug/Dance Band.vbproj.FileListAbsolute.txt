@@ -1,0 +1,26 @@
+E:\VisualBasic\Chapter 8\Dance Band\Dance Band\obj\Debug\Dance Band.vbprojAssemblyReference.cache
+E:\VisualBasic\Chapter 8\Dance Band\Dance Band\obj\Debug\Dance_Band.frmDanceBand.resources
+E:\VisualBasic\Chapter 8\Dance Band\Dance Band\obj\Debug\Dance_Band.Resources.resources
+E:\VisualBasic\Chapter 8\Dance Band\Dance Band\obj\Debug\Dance Band.vbproj.GenerateResource.cache
+E:\VisualBasic\Chapter 8\Dance Band\Dance Band\obj\Debug\Dance Band.vbproj.CoreCompileInputs.cache
+E:\VisualBasic\Chapter 8\Dance Band\Dance Band\bin\Debug\Dance Band.exe.config
+E:\VisualBasic\Chapter 8\Dance Band\Dance Band\bin\Debug\Dance Band.exe
+E:\VisualBasic\Chapter 8\Dance Band\Dance Band\bin\Debug\Dance Band.pdb
+E:\VisualBasic\Chapter 8\Dance Band\Dance Band\bin\Debug\Dance Band.xml
+E:\VisualBasic\Chapter 8\Dance Band\Dance Band\obj\Debug\Dance_Band.frmDisplay.resources
+E:\VisualBasic\Chapter 8\Dance Band\Dance Band\obj\Debug\Dance Band.exe
+E:\VisualBasic\Chapter 8\Dance Band\Dance Band\obj\Debug\Dance Band.xml
+E:\VisualBasic\Chapter 8\Dance Band\Dance Band\obj\Debug\Dance Band.pdb
+D:\VisualBasic\Chapter 8\Dance Band\Dance Band\obj\Debug\Dance Band.vbprojAssemblyReference.cache
+D:\VisualBasic\Chapter 8\Dance Band\Dance Band\obj\Debug\Dance_Band.frmDanceBand.resources
+D:\VisualBasic\Chapter 8\Dance Band\Dance Band\obj\Debug\Dance_Band.frmDisplay.resources
+D:\VisualBasic\Chapter 8\Dance Band\Dance Band\obj\Debug\Dance_Band.Resources.resources
+D:\VisualBasic\Chapter 8\Dance Band\Dance Band\obj\Debug\Dance Band.vbproj.GenerateResource.cache
+D:\VisualBasic\Chapter 8\Dance Band\Dance Band\obj\Debug\Dance Band.vbproj.CoreCompileInputs.cache
+D:\VisualBasic\Chapter 8\Dance Band\Dance Band\obj\Debug\Dance Band.exe
+D:\VisualBasic\Chapter 8\Dance Band\Dance Band\obj\Debug\Dance Band.xml
+D:\VisualBasic\Chapter 8\Dance Band\Dance Band\obj\Debug\Dance Band.pdb
+D:\VisualBasic\Chapter 8\Dance Band\Dance Band\bin\Debug\Dance Band.exe.config
+D:\VisualBasic\Chapter 8\Dance Band\Dance Band\bin\Debug\Dance Band.exe
+D:\VisualBasic\Chapter 8\Dance Band\Dance Band\bin\Debug\Dance Band.pdb
+D:\VisualBasic\Chapter 8\Dance Band\Dance Band\bin\Debug\Dance Band.xml
